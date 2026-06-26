@@ -1,7 +1,5 @@
 # LCA-COURSE-1-CORE-PROJECT
 
-# LCA-Python-Exercises
-
 **Trainee:** [Beckham Daniels]
 **Programme:** YouthCode Off-Site — Cohort 2, 2026
 **Course:** Course 1 — Core Project 
